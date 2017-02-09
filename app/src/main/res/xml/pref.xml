@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="NOTIFICATIONS">
+
+        <CheckBoxPreference
+            android:id="@+id/notify_notices"
+            android:key="notify_notice"
+            android:summary="Check to display new Notices Notification"
+            android:title="Show New Notices" />
+
+        <CheckBoxPreference
+            android:id="@+id/notify_events"
+            android:key="notify_events"
+            android:summary="Check to display new Events Notification "
+            android:title="Show New Events"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="ABOUT">
+
+        <nagarjuna.com.nagarjunaapp.DialogPref
+            android:key="verision"
+            android:summary="Latest version 0.1"
+            android:dialogMessage="Latest version 0.1"
+            android:title="Version" />
+
+        <nagarjuna.com.nagarjunaapp.DialogPref
+            android:key="verision"
+            android:summary="Approved By GON"
+            android:dialogMessage="DoE approval"
+            android:title="Licence" />
+
+
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

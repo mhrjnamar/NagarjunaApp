@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="textPrimary">#a9a9a9</color>
+    <color name="textSecondary">#54000000</color>
+    <color name="divider">#12E1BEE7</color>
+    <color name="background_color">#c3c9c9</color>
+    <color name="textColor">#87000000</color>
+    <color name="calender_toolbar">#F57F17</color>
+    <color name="my_spinner_text_color">#fff</color>
+    <color name="login_background">#BA68C8</color>
+    <color name="default_header_color">#9C27B0</color>
+    <color name="background">#E1BEE7</color>
+    <color name = "tab_bg">#2E7D32</color>
+
+</resources>

@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context="nagarjuna.com.nagarjunaapa.fragments.Calender_Frag$AboutUs">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="25dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Version 1.0.0"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:gravity="center"
+                android:id="@+id/version"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:padding="5dp"
+                android:text="@string/contact_us"
+                android:id="@+id/contact_us"
+                android:layout_below="@+id/version"
+                android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/colorAccent"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/contact_us"/>
+
+
+        </RelativeLayout>
+
+
+
+</LinearLayout>
+
+

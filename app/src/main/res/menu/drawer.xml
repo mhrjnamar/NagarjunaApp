@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/introduction"
+        android:title="@string/introduction"
+        android:icon="@drawable/info"
+        />
+    <item
+        android:id="@+id/fee_payment"
+        android:title="@string/feePayment"
+        android:icon="@drawable/ic_fee_payment"
+        />
+    <item android:id="@+id/calender"
+        android:title="@string/calender"
+        android:icon="@drawable/ic_calendar"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"/>
+
+    <item
+        android:id="@+id/contact_us"
+        android:title="@string/about_us"
+        android:icon="@drawable/ic_contact_us"/>
+
+    <item android:id="@+id/notifications"
+        android:title="Notifications"
+        android:icon="@drawable/ic_contact_us"/>
+
+    <item
+        android:id = "@+id/login"
+        android:title="Login"
+        android:icon="@drawable/ic_login"/>
+
+</menu>

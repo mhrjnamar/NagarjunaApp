@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">NagarjunaApp</string>
+    <string name="college_name">Nagarjuna College of IT</string>
+    <string name="college_address">Hariharbhawan, Lalitpur.</string>
+    <string name="logo">Logo</string>
+    <string name="home">Home</string>
+    <string name="noticeBoard">Notice Board</string>
+    <string name="feePayment">Fee Payment</string>
+    <string name="calender">Calender</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notice_board">Notice Board</string>
+    <string name="fee_payment">Fee Payment</string>
+    <string name="student_full_name">Student Full Name</string>
+    <string name="faculty">Faculty</string>
+    <string name="semester">Semester</string>
+    <string name="tu_regestration_no">TU Regestration No.</string>
+    <string name="amount">Amount</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="pay">PAY</string>
+    <string name="calender_title">Calender</string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_tu_regestration_no">Enter TU Regestration No.</string>
+    <string name="fee_amount">Amount</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us"> Contact Us\n\n Nagarjuna College \n Pulchowk-3, Hariharbhawan \n (Next to Himalayan Bank, Pulchowk Branch)\n Lalitpur Nepal.\n\n Phone No. (+977 1) 5010670; 5010559.\n website: www.college.nagarjuna.edu.np\n Email: info@nagarjuna.edu.np\n https://www.facebook.com/ NagarjunaCollegeOfInformationTechnology</string>
+    <string name="view_more">View More</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="student_login">Student Login</string>
+    <string name="upcomming_events">UpComming Events</string>
+    <string name="prev">Prev</string>
+    <string name="month">Month</string>
+    <string name="next">Next</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="fei">FRI</string>
+    <string name="thu">THU</string>
+    <string name="sat">SAT</string>
+    <string name="fri">FRI</string>
+    <string name="events">Events</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="open_app">Get Started</string>
+    <string name="introduction">Introduction</string>
+    <string name="welcome">Welcome to Students, Parents or visitors!</string>
+    <string name="welcome_content">On behalf of our faculty and staff, welcome to Nagarjuna Group of Educational Organisations. Your success matters to us, and we are here to help guide and direct you to your ultimate educational and career goals. We provide an array of services which will help you succeed in achieving success no matter if your goal is to complete a course or a complete degree program. I encourage you to access all our services and ask any one of our professional staff on given mail on our contact address to assist you with your educational endeavors. I congratulate you for choosing such a wonderful educational institution.</string>
+    <string name="welcome_content_less">On behalf of our faculty and staff, welcome to Nagarjuna Group of Educational Organisations. Your success matters to us, and we are here to help guide and direct you to your ultimate educational and career goals. We provide an array of services which will help you succeed in achieving success no matter if your goal is to complete a course or a complete degree program......... </string>
+    <string name="message_from_director">Message From Director</string>
+    <string name="message_content">It’s my great pleasure to welcome you to the Nagarjuna Academy web site. We have been progressing academically since 1988 to fulfill the needs of quality education that our country needs in the present ICT Era. This site is a diminutive profile of Nagarjuna Academy in which you will acquire academic information for those who seek to hone their professional skills and enrich their academic background for upgrading their potentiality and exploring their capacity. Here you can surf into our different academic programmes of Nagarjuna Academy High school, which has classes from Pre-school children to SLC, +2 and Nagarjuna International College with BIM, B Sc CSIT and BBS programme of Tribhuvan University/Nepal. We are always towards to develop this site as an interactive forum for students and teachers where one can share and views each other’s academic stuff as articles, projects, information and so on. The main objective of Nagarjuna Academy is to fortify the students with all-round knowledge and to quip them with the managerial, practical and personal skills, which are very essential to vie in a highly competitive present global scenario. We have strong team of caliber academic and administrative faculties and staff with fully equipped modern computer lab. with unlimited high bandwidth internet facilities, science laboratories and resourceful library to provide ample opportunities to attain perspective goals of your life. We are always towards maintaining the quality not the quantity. Since student’s life is not solely concerned with academic pursuit; therefore we have scheduled sufficient provisions for extracurricular activities. Nevertheless cost and quality are the two sides of the same coin; we have kept the cost expenditure as affordable as possible. Thank you for using this app. Wish you all the best.\n\nMr. Sunil Bikram Sijapati \nExecutive Director Nagarjuna Academy</string>
+    <string name="message_content_less">It’s my great pleasure to welcome you to the Nagarjuna Academy web site. We have been progressing academically since 1988 to fulfill the needs of quality education that our country needs in the present ICT Era. This site is a diminutive profile of Nagarjuna Academy in which you will acquire academic information for those who seek to hone their professional skills and enrich their academic background for upgrading their potentiality and exploring their capacity........ </string>
+    <string name="date">Date</string>
+    <string name="eventtitle">EventTitle</string>
+    <string name="description">Description </string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="view_less">View Less</string>
+    <string name="skip_login">Skip Login</string>
+    <string name="app_id">9876543210A</string>
+    <string name="toggle">Toogle</string>
+    <string name="default_view">Default View</string>
+    <string name="calender_view">Calender View</string>
+    <string name="event_view">Event View</string>
+    <string name="n">N</string>
+    <string name="agarjuna">agarjuna</string>
+    <string name="agarjuna_CAP">AGARJUNA COLLEGE</string>
+    <string name="of_information_technology">of Information Technology</string>
+    <string name="add_notice">Add Notice</string>
+    <string name="add_event">Add Event</string>
+    <string name="share">Share</string>
+    <string name="map">Map</string>
+    <string name="loading">Loading...</string>
+    <string name="item">Item</string>
+    <string name="img">img</string>
+    <string name="title">Title</string>
+    <string name="gcm_senderId">579048476247</string>
+    <string name="college_icon">college_icon</string>
+    <string name="Home">Home</string>
+    <string name="imageview">ImageView</string>
+
+</resources>
